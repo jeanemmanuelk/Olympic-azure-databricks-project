@@ -53,7 +53,7 @@ The architecture of the pipeline is visualized below:
 ## 📁 Project Structure
 
 ├── notebooks/Tokyo Olympic data transformation # Databricks notebook (PySpark and SQL) for transformation and loading steps
-├── pipeline/ # ADF pipeline JSON export
+├── pipelines/ # ADF pipeline JSON export
 ├── data/ # Sample data used for development/testing
 ├── 2021_tokyo_olympic_dashboard.pdf # Final Power BI report (exported as PDF)
 ├── Olympic%20flowchart.png # Visual representation of the pipeline
