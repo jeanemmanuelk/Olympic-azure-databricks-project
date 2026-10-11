@@ -6,10 +6,10 @@ This project demonstrates an end-to-end data engineering pipeline built using Az
 ## About Dataset
 
 **Details**  
-This contains the details of over 11,000 athletes, with 47 disciplines, along with 743 Teams taking part in the 2021 (2020) Tokyo Olympics.  
+This contains the details of over 11,000 athletes, with 46 disciplines, along with 743 team entries taking part in the 2021 (2020) Tokyo Olympics.  
 This dataset contains the details of the Athletes, Coaches, Teams participating as well as the Entries by gender. It contains their names, countries represented, discipline, gender of competitors, and name of the coaches.
 
-Will update the dataset with medals (gold, silver, bronze), and more details about the athletes after a few weeks.
+The repo also includes a medals table (gold, silver, bronze and total by country) in `data/Medals.csv`.
 
 **Credits**  
 Source: Tokyo Olympics 2020 Website
